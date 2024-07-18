@@ -1,0 +1,347 @@
+
+  .hero {
+    background-image: url(img/hero.png); 
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .hero-logo{
+    height: 30px;
+    width: 150px;
+    position: absolute;
+      top: 40px;
+       left: 60px;   
+  }
+  .btn1{
+    position: absolute;
+  top: 40px;
+  right: 60px;
+  color:white;
+  background-color: rgba(255,155,219,255);
+  border-radius: 40px;
+  height: 40px ;
+  width: 180px;
+  font-size: 14px;
+  border: none;
+  font-family: "poppins";
+ font-weight: bold;
+ position: absolute;
+ 
+
+  }
+  h1{
+    font-size: 30px;
+    font-weight: bold ;
+     font-family: "poppins";
+     position: absolute;
+     top: 150px;
+     left: 60px;  
+  }
+  .para1{
+    position: absolute;
+    top: 270px;
+     left: -90px;   
+    font-family: "open sans";
+    color: black;
+    font-size: 16px;
+  }
+  .btn2{
+    color: white;
+    background-color: rgba(255,155,219,255);
+    border-radius: 40px;
+    height: 45px ;
+    width: 250px;
+    font-size: 14px;
+    border: none;
+    font-family: "open sans";
+   font-weight: bold;
+   position: absolute;
+   top: 385px;
+    left: 60px;  
+    }
+    .hero-mockup{
+      height: 400px;
+      width: 550px;
+      position: absolute;
+     top: 120px;
+     left: 650px;
+     display: flex;
+     justify-content: flex-end;
+     align-items: center;   
+    }
+    .item{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: white;
+      height: 300px;
+      width: 1100px;
+      margin-left: 80px;
+      margin-top: 100px;
+      border-radius: 10px;
+      
+      box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3)
+    }
+    h2{
+      
+      font-family: "poppins";
+      font-weight: bold;
+      font-size: 20px;
+      position: absolute;
+      left:0;
+      top: 755px;
+      margin-left: 150px;
+   
+     
+    }
+    p{
+      color: hsl(201, 11%, 66%);
+      font-family: "open sans";
+      font-size: 14px;
+      position: absolute;
+      left:0;
+      top: 800px;
+      margin-left: 150px;
+    }
+      .together-img{
+        height: 270px;
+        width: 400px;
+        margin-left: 600px;
+
+      }
+
+
+    .text-container{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: white;
+      height: 300px;
+      width: 1100px;
+      margin-left: 80px;
+      margin-top: 20px;
+      border-radius: 10px;
+      box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3)
+    }
+    
+    h3{
+      
+      font-family: "poppins";
+      font-weight: bold;
+      font-size: 20px;
+      position: absolute;
+     right:0;
+      top: 1080px;
+      margin-right: 350px;
+   
+     
+    }
+    .para-2{
+      color: hsl(201, 11%, 66%);
+      font-family: "open sans";
+      font-size: 14px;
+      position: absolute;
+      right:0;
+      top: 1130px;
+      margin-left: 677px;
+    } 
+.conversation-img{
+  height: 250px;
+        width: 400px;
+        margin-right: 560px;
+}
+      
+
+    .object-container{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: white;
+      height: 300px;
+      width: 1100px;
+      border-radius: 10px;
+      margin-top: 20px;  
+      margin-bottom: 200px;
+      margin-left: 80px;
+      box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3)
+    } 
+    
+    h4{
+      
+      font-family: "poppins";
+      font-weight: bold;
+      font-size: 20px;
+      position: absolute;
+      left:0;
+      top: 1380px;
+      margin-left: 150px;
+   
+     
+    }
+    .para-3{
+      color: hsl(201, 11%, 66%);
+      font-family: "open sans";
+      font-size: 14px;
+      position: absolute;
+      left:0;
+      top: 1435px;
+      margin-left: 150px;
+    }
+    .user-img{
+      height: 250px;
+        width: 450px;
+        margin-left: 600px;
+    }
+    footer {
+      background-color:  rgba(0,37,46,255); 
+      padding: 150px;
+      
+    }
+    
+    .container-3 {
+      max-width: 1000px;
+      margin: 0 auto; 
+    }
+    
+  .footer-logo{
+    position: absolute ;
+    top: 1900px;
+    left: 100px;
+    height: 30px;
+    width: 200px;
+  }
+  i{
+    position: absolute ;
+    top: 1960px;
+    left: 100px;
+  }
+  .logo-text{
+    color: white;
+    position: absolute ;
+    top: 1960px;
+    left: 140px;
+    font-size: 12px;
+    font-family: "open sans"; 
+  }
+ .logo-2{
+   
+    color: white;
+    position: absolute ;
+    top: 2030px;
+    left: 100px;
+ }
+ .number{
+  color: white;
+  position: absolute ;
+  top: 2030px;
+  left: 140px;
+ }
+ .footer-link{
+
+  font-size: 12px;
+    font-family: "open sans"; 
+    color: white;
+    position: absolute ;
+    top: 1960px;
+    left:530px;
+    font-weight: bold;
+    }
+ .footer-do{
+  font-size: 12px;
+    font-family: "open sans"; 
+    color: white;
+    position: absolute ;
+    top: 1990px;
+    left:530px;
+    font-weight: bold;
+ }
+.footer-faq{
+  font-size: 12px;
+    font-family: "open sans"; 
+    color: white;
+    position: absolute ;
+    top: 2020px;
+    left:530px;
+    font-weight: bold;
+}
+.footer-career{
+  font-size: 12px;
+    font-family: "open sans"; 
+    color: white;
+    position: absolute ;
+    top: 1960px;
+    left:780px;
+    font-weight: bold;
+}
+.footer-blog{
+  font-size: 12px;
+  font-family: "open sans"; 
+  color: white;
+  position: absolute ;
+  top: 1990px;
+  left:780px;
+  font-weight: bold;
+}
+.footer-contact{
+  font-size: 12px;
+  font-family: "open sans"; 
+  color: white;
+  position: absolute ;
+  top: 2020px;
+  left:780px;
+  font-weight: bold;
+}
+.logo-3 {
+  top: 1960px;
+  left:990px;
+  
+}
+.logo-4{
+  top: 1960px;
+  left: 1030px;
+  color: white;
+}
+.logo-5{
+  top: 1960px;
+  left:1070px;
+  color: white;
+  }
+ 
+.flexbox{
+  background-color:white;
+  height: 200px;
+  width: 600px;
+margin-left: 330px;
+border-radius: 15px;
+box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+position: absolute;
+top:1670px;
+left:0;
+}
+.btn-3{
+  position: absolute;
+  top: 110px;
+  left: 190px;
+  color:white;
+  background-color: rgba(255,155,219,255);
+  border-radius: 40px;
+  height: 40px ;
+  width: 230px;
+  font-size: 14px;
+  border: none;
+  font-family: "open sans";
+ font-weight: bold;
+ position: absolute;
+} 
+.heading-flexbox{
+  
+  position: absolute;
+  top: 30px;
+  left: 110px;
+  font-family: "poppins";
+  font-weight: bold;
+  font-size: 23px;
+}
